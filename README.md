@@ -1,4 +1,4 @@
-# Hate Speech Detection
+# Twitter NER Detection
 
 ### Project Workflows
 - constants
